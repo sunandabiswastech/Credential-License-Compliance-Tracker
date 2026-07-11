@@ -1,5 +1,4 @@
 # Credential-License-Compliance-Tracker
-# Credential & License Compliance Tracker
 
 A Python tool that audits employee license and certification records against
 healthcare credentialing standards, flags discrepancies for follow-up, and
